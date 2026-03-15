@@ -4,6 +4,8 @@
 
 **Contacts** is a simple Android application developed using Java that allows users to store and manage contact information. 
 The app provides basic contact management features such as adding, viewing, updating, and deleting contacts, with alphabetical sorting and a clean, modern UI.
+
+
 🚀 **Features**  
 -  Add new contacts  
 -  Edit existing contacts  

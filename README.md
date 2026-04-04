@@ -44,13 +44,16 @@ app/
 └── drawable/
 
 🚀 Key Implementation Highlights
-MVVM-like separation using Activities, Model, Adapter, and Database Helper
+
+MVVM-like separation using Activities, 
+Model, Adapter, and Database Helper
 Background thread execution using AppExecutor to prevent UI blocking
 Live avatar preview in Add/Edit screen using TextWatcher
 Deterministic avatar colors based on contact ID
 Real-time search with SearchView and onQueryTextChange
 Input validation (First name & Phone required, Email format check)
 Intent handling for calling and sending email directly from app
+
 🗄️ Database Schema
 Table: contacts
 
@@ -60,3 +63,8 @@ last_name → TEXT
 company → TEXT
 phone → TEXT NOT NULL
 email → TEXT
+
+Results:
+<img width="689" height="688" alt="image" src="https://github.com/user-attachments/assets/9da258f9-afe8-42e2-b1fd-c61f44ee9250" />
+
+

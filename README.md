@@ -25,23 +25,9 @@ The app provides basic contact management features such as adding, viewing, upda
 ---
 
 📂 **Project Structure**  
-app/
-├── manifests/
-│ └── AndroidManifest.xml
-├── java/com/example/contact/
-│ ├── activities/
-│ │ ├── MainActivity.java
-│ │ └── AddEditContactActivity.java
-│ ├── adapter/
-│ │ └── ContactAdapter.java
-│ └── database/
-│ └── DBHelper.java
-└── res/
-├── layout/
-│ ├── activity_main.xml
-│ ├── activity_add_edit.xml
-│ └── item_contact.xml
-└── drawable/
+<img width="559" height="691" alt="image" src="https://github.com/user-attachments/assets/fd84d901-68b0-443a-8fbc-a5422589da8b" />
+<img width="562" height="399" alt="image" src="https://github.com/user-attachments/assets/9f6289b4-e132-4773-9990-bb7bdec6beb9" />
+
 
 🚀 Key Implementation Highlights
 
